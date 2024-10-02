@@ -15,7 +15,7 @@ writexl: This package allows you to export your results into Excel format.
 install.packages("rMEA")
 install.packages("writexl")
 
-**Usage*
+**Usage**
 The provided script is ready to run and is self-explanatory. Simply load the script in R Studio and execute it to analyze your data.
 
 **Steps to Run**
